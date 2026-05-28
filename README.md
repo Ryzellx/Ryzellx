@@ -52,7 +52,7 @@
 
 ## 👨‍💻 About Me
 
-> whoami
+> who am i?
 
 Name: Ryzellx
 Role: Fullstack Web Developer
