@@ -52,7 +52,6 @@
 
 ## 👨‍💻 About Me
 
-```bash
 > whoami
 
 Name: Ryzellx
@@ -64,4 +63,3 @@ Status: Debugging reality
 <div align="center">💙 Code • Create • Debug • Repeat
 
 </div>
-```
