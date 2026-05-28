@@ -46,6 +46,6 @@
 > whoami
 
 Name: Ryzellx
-Role: Fullstack Developer
+Role: Fullstack Web Developer & Reverse Engineer
 Focus: Backend & Modern Web Apps
 Status: Debugging reality
