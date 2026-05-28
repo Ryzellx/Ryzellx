@@ -50,20 +50,18 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```bash
 > whoami
 
 Name: Ryzellx
-Role: Fullstack Web Developer & Revese Engineer
+Role: Fullstack Web Developer
 Focus: Backend & Modern Web Apps
 Stack: React, Next.js, Laravel, NestJS, Golang
 Status: Debugging reality
 
----
-
-<div align="center">💙 Code • Create • Repeat
+<div align="center">💙 Code • Create • Debug • Repeat
 
 </div>
 ```
