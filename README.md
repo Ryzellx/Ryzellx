@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=4FACFE&center=true&vCenter=true&width=700&lines=Welcome+To+My+Profile;Ryzellx;Fullstack+Developer;Backend+Engineer;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1500&color=4FACFE&center=true&vCenter=true&width=700&lines=Welcome+To+My+Profile;Ryzellx;Fullstack+Web+Developer;Backend+Engineer;Open+Source+Enthusiast" />
 
 </div>
 
