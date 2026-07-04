@@ -55,9 +55,13 @@
 > who am i?
 
 Name: Ryzellx
+
 Role: Fullstack Web Developer
+
 Focus: Backend & Modern Web Apps
+
 Stack: React, Next.js, Laravel, NestJS, Golang
+
 Status: Debugging reality
 
 <div align="center">💙 Code • Create • Debug • Repeat
